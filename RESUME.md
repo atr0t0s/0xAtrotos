@@ -37,12 +37,15 @@ Trust Insurance Cyprus, October 2014 – August 2019
 **Earlier**
 
 **Software and Systems Engineer** — SMK IdealHost Ltd, Feb 2012 – Oct 2014
+
 Frontend and backend for server/datacenter management. Java, JavaScript, bash, C++.
 
 **Freelance PHP Developer** — Self-employed, Jan 2008 – Dec 2009
+
 Custom websites and intranets.
 
 **Alarm & CCTV Engineer** — SAPELE Security Systems Ltd, Feb 2007 – Nov 2007
+
 Installation and configuration for commercial and residential clients.
 
 ---
@@ -64,6 +67,7 @@ Installation and configuration for commercial and residential clients.
 **Education**
 
 **MSc Computer Science** – Middlesex University London (Upper Second Class Honours)
+
 **BSc Computer Science** – University of Nicosia
 
 ---
