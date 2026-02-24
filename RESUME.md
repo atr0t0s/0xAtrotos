@@ -36,17 +36,11 @@ Trust Insurance Cyprus, October 2014 – August 2019
 
 **Earlier**
 
-**Software and Systems Engineer** — SMK IdealHost Ltd, Feb 2012 – Oct 2014
+**Software and Systems Engineer** — SMK IdealHost Ltd, Feb 2012 – Oct 2014 - Frontend and backend for server/datacenter management. Java, JavaScript, bash, C++.
 
-Frontend and backend for server/datacenter management. Java, JavaScript, bash, C++.
+**Freelance PHP Developer** — Self-employed, Jan 2008 – Dec 2009 - Custom websites and intranets.
 
-**Freelance PHP Developer** — Self-employed, Jan 2008 – Dec 2009
-
-Custom websites and intranets.
-
-**Alarm & CCTV Engineer** — SAPELE Security Systems Ltd, Feb 2007 – Nov 2007
-
-Installation and configuration for commercial and residential clients.
+**Alarm & CCTV Engineer** — SAPELE Security Systems Ltd, Feb 2007 – Nov 2007 - Installation and configuration for commercial and residential clients.
 
 ---
 
@@ -75,7 +69,11 @@ Installation and configuration for commercial and residential clients.
 **Skills**
 
 **AI**: LLMs, tool-calling, agent orchestration, persistent memory, RL (PPO, Gymnasium), vector databases (Qdrant), RAG
+
 **Languages**: TypeScript/JavaScript, Python, Go, PHP, Java
+
 **Frontend/Frameworks**: React, Next.js, Vue.js, Laravel, Redux, Web3.js, Ethers.js
+
 **Databases & Infra**: PostgreSQL, MySQL, MongoDB, Redis, Docker, Qdrant
+
 **Other**: Blockchain/DeFi, Git, Neovim, system architecture
