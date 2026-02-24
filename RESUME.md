@@ -30,7 +30,7 @@ SkillGaming, 2019 – 2021
 
 **Senior Software Engineer**
 Trust Insurance Cyprus, October 2014 – August 2019
-- Broker portals and core insurance systems — quotation, policy management, claims. Redis, MySQL, Oracle PL/SQL, MongoDB, PostgreSQL.
+- Broker portals and core insurance systems — quotation, policy management, claims. PHP, Java, MySQL, Oracle PL/SQL.
 
 ---
 
