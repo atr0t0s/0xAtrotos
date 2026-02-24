@@ -54,6 +54,7 @@ Installation and configuration for commercial and residential clients.
 - "Software Is Not Dead — It's Evolving" (Feb 2026)
 
 **Peer-reviewed**
+
 - Violaris C.G., Mavromoustakis X.C. "On the Performance Evaluation and Analysis of the Hybridised Bittorrent Protocol with Partial Mobility Characteristics", AP2PS 2010.
 - Charalambous M. et al. "On the Mobility Scenario Implementation Using a Graphical P2P Discrete Event Simulator for the Bittorrent Protocol", J. Algorithms and Computational Technology, 2013.
 - Violaris G., Dionysiou I. "Out-of-Band Authentication Model with Hashcash Brute-Force Prevention", IEEE CSS 2014.
@@ -61,12 +62,14 @@ Installation and configuration for commercial and residential clients.
 ---
 
 **Education**
+
 **MSc Computer Science** – Middlesex University London (Upper Second Class Honours)
 **BSc Computer Science** – University of Nicosia
 
 ---
 
 **Skills**
+
 **AI**: LLMs, tool-calling, agent orchestration, persistent memory, RL (PPO, Gymnasium), vector databases (Qdrant), RAG
 **Languages**: TypeScript/JavaScript, Python, Go, PHP, Java
 **Frontend/Frameworks**: React, Next.js, Vue.js, Laravel, Redux, Web3.js, Ethers.js
