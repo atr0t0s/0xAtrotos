@@ -1,10 +1,12 @@
 **George Violaris**
+
 **CTO | AI Systems & Software Engineering**
 Nicosia, Cyprus | [@atr0t0s](https://x.com/atr0t0s) | [Medium @gvio](https://medium.com/@gvio) | [violaris.org](http://violaris.org)
 
 ---
 
 **Summary**
+
 CTO with 15 years in software engineering. I run technology at Hatchworks VC, where I build AI products — Zeig.ai for financial analysis and Spectre.ai for agent memory. Before that, blockchain and DeFi, gaming platforms, insurance systems and server infrastructure.
 
 ---
